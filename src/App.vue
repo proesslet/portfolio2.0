@@ -5,5 +5,9 @@
     <div class="wrapper"></div>
   </header>
 
-  <main></main>
+  <main>
+    <div class="wrapper">
+      <router-view />
+    </div>
+  </main>
 </template>
