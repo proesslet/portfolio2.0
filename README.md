@@ -1,29 +1,5 @@
 # Portfolio - Preston Roesslet
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to my portfolio! This website is intended to be my place to show off my software development work across the years. It will also be a place for me to publish resources such as tutorials and other software development information.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+I've worked on many projects over the past few years, and I'm always looking for something new to work on! If you have a project that you want to work on together, feel free to reach out to me!
